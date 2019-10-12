@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to BhanuKiran Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to B S R Technologies.</h1>
+<h1 align="center">Very Good Training center for DevOps with AWS near KondaReddy Buruju and also for Job Assitance Job Support also...Teaching Real Time scnerios like Boozing</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
